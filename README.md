@@ -17,3 +17,4 @@ The Car Sales Dashboard is built using Excel and is designed to be updated with 
 6. Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, colour, sales amount, dealer region, date, etc
  ### Achievements
  With the Car Sales Dashboard, I was able to make data-driven decisions.The Car Sales Dashboard is built using Excel and is designed to be updated with new data on a regular basis by using Power BI.
+ 
