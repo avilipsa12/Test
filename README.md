@@ -18,3 +18,4 @@ The Car Sales Dashboard is built using Excel and is designed to be updated with 
  ### Achievements
  With the Car Sales Dashboard, I was able to make data-driven decisions.The Car Sales Dashboard is built using Excel and is designed to be updated with new data on a regular basis by using Power BI.
  
+![Screenshot 2024-04-17 000521](https://github.com/avilipsa12/Test/assets/167240859/cbc4a4d5-0754-4d24-9727-cca1739d89a6)
